@@ -1,5 +1,6 @@
 # Hello, Im Matija!
 
+- 😂 Mostly focused on private repositeries.
 
 # ⚙ Programming Languages:
 
