@@ -4,7 +4,7 @@
 
 # ⚙ Programming Languages:
 
-**Java,C++, C#**
+**Java,C++, C#, Roblox Lua**
 
 # 🔧 Game Engines:
 
