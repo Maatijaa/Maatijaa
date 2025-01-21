@@ -4,14 +4,14 @@
 
 # ⚙ Programming Languages:
 
-**Java,C++, C#, Roblox Lua**
+**Java, Roblox Lua**
 
 # 🔧 Game Engines:
 
-**Unity**,**Roblox Engine**
+**Roblox Engine**
 
 # Links
 
-**Website:** https://guns.lol/cizmonex
+**Website:** https://guns.lol/paradoxer
 
-- You can contact me thourgh **discord**: Paradoxer#8391
+- You can contact me on **discord**: Paradoxer#8391
