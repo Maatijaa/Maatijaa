@@ -4,14 +4,10 @@
 
 # ⚙ Programming Languages:
 
-**Java, Roblox Lua**
+**Java, Roblox Lua, Learning C#**
 
 # 🔧 Game Engines:
 
-**Roblox Engine**
-
-# Links
-
-**Website:** https://guns.lol/paradoxer
+**Roblox Engine, Unity**
 
 - You can contact me on **discord**: Paradoxer#8391
